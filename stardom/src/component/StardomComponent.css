@@ -1,0 +1,58 @@
+img
+{
+ height: 100px;
+ width: 100px;
+}
+
+h1{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    background-color: lightgray;
+    margin: 0;
+    padding:10px 100px;
+    height: 80px;
+}
+
+.table-content{
+    background-color:rgb(136,84,208);
+
+}
+
+.buttons{
+    padding:20px;
+}
+
+.addProstar{
+    background-color: rgb(0,123,255);
+    color:white;
+    margin:10px;
+}
+
+.sortByName{
+    background-color: rgb(108,117,125);
+    color:white;
+    margin:10px;
+}
+
+.sortByPopularity{
+    background-color: rgb(23,162,184);
+    color:white;
+    margin:10px;
+}
+
+table{
+    background-color:white;
+    border: 1px solid black;
+    table-layout: fixed ;
+}
+
+.tableHeading{
+    width:100%;
+}
+
+th{
+    width: 31%;
+    border: 1px solid black;
+}
+
